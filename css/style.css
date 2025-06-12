@@ -119,6 +119,7 @@ input {
 }
 .pphotos{
     padding-top: 53px;
+    padding-bottom: 39px;
 }
 .photo1 {
     padding-left: 61px;
@@ -132,7 +133,7 @@ input {
 
 footer{ 
     display: flex;
-    width: 1440px;
+    width: 100%;
     background-color: black;
     height: 372px;
 }
