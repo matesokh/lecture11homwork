@@ -1,0 +1,83 @@
+@media (max-width:480px) {
+    body {
+        width: 465px;
+    }
+    .head {
+        width: 455px;
+        padding-left: 36px;
+        padding-top: 22px;
+    }
+    .head p{
+        font-size: 17px;
+        font-weight: 400;
+        color: #5863E3;
+    }
+    .head h1{
+        font-size: 28px;
+    }
+    main{
+        display: block;
+        width: 465px;
+        padding-top: 20px;
+        padding-left: 33px;
+    }
+    .textarea {
+        width: 370px;
+    }
+    .mdiv{
+        padding-left: 0px;
+    }
+    .contact {
+        display: block;
+        width: 465px;
+        padding-left: 0px;
+    }
+    .Phone {
+        padding-top: 25px;
+        padding-left: 0px;
+    }
+    .Location {
+        padding-top: 25px;
+        padding-left: 0px;
+    }
+    .ptext {
+        width: 415px;
+       padding-left: 0px;
+    }
+    .ptext p {
+        width: 380px;
+        font-size: 20px;
+    }
+    .photos {
+        width: 465px;
+        padding-left: 50px;
+    }
+    .photo1 {
+        padding-left: 0px;
+    }
+    .photo2 {
+        padding-top: 20px;
+        padding-left: 0px;
+    }
+    .photo3 {
+        padding-top: 20px;
+        padding-left: 0px;
+    }
+    footer {
+        display: block;
+        width: 465px;
+        height: 100%;
+    }
+    .row1 {
+        padding-left: 50px;
+    }
+    .row2 {
+        padding-left: 50px;
+    }
+    .row3 {
+        padding-left: 50px;
+    }
+    .row4 {
+        padding-left: 50px;
+    }
+}
