@@ -81,3 +81,28 @@
         padding-left: 50px;
     }
 }
+  @media (max-width:720px) {
+    body{
+        width: 680px;
+    }
+    .head{
+        width: 680px;
+        padding-top: 21px;
+        padding-left: 10px;
+    }
+     main{
+        ;
+        display: block;
+        padding-left: 57px;
+        padding-left: 109px;
+     }
+     form {
+        width: 420px;
+     }
+     .textarea{
+        width: 420px;
+     }
+     .mdiv{
+        padding-left: 0px;
+     }
+    }
